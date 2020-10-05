@@ -1,1 +1,1 @@
-I wrote this codes CS50Lab.
+Here are my codes that I wrote during Harvard University's CS50x course.
